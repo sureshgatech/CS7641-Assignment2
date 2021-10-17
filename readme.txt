@@ -12,6 +12,9 @@ numpy 1.20.3
 seaborn 0.11.2
 matplotlib 3.4.2
 
+Github URL:
+https://github.com/sureshgatech/CS7641-Assignment2
+
 Run the .py files using the command from jython directory
 jython <path>\SureshCode\countones.py
 jython <path>\SureshCode\fourpeaks.py
