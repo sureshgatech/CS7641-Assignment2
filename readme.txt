@@ -15,7 +15,7 @@ matplotlib 3.4.2
 Run the .py files using the command from jython directory
 jython <path>\SureshCode\countones.py
 jython <path>\SureshCode\fourpeaks.py
-jython <path>\SureshCode\tsm.py
+jython <path>\SureshCode\travellingsalesman.py
 jython <path>\SureshCode\NN_BACKPROP.py
 jython <path>\SureshCode\NN_SA.py
 jython <path>\SureshCode\NN_RHC.py
